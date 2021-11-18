@@ -1,0 +1,29 @@
+_repo: The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-10-Spain-and-Portugal_66694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Williams, Henry Smith
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '698'
+    url: http://www.gutenberg.org/2009/agents/698
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Smith_Williams
+description: ''
+gutenberg_issued: '2021-11-08'
+identifiers:
+  gutenberg: '66694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Historians'' History of the World in Twenty-Five Volumes, Volume 10
+
+  Spain and Portugal'
+url: http://www.gutenberg.org/ebooks/66694
